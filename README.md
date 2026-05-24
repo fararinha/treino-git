@@ -14,4 +14,4 @@ Durante os testes práticos, consegui dominar os seguintes comandos:
 
 ## 🧑‍💻 Autor
 
-Desenvolvido por **Sebola** durante a jornada de estudos na Alura.
+Desenvolvido por **Fararinha** durante a jornada de estudos na Alura.
